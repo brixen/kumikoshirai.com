@@ -124,6 +124,12 @@ h4 {
 	border: 1px solid #1d2c49;
 }
 
+.appointment {
+	font-size: 120%;
+	font-weight: bold;
+	margin: 0.5em 0;
+}
+
 #footer {
 	height: 20px;
 	position: absolute;
