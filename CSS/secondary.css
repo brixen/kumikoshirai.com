@@ -125,7 +125,6 @@ h4 {
 }
 
 #footer {
-	width: 689px;
 	height: 20px;
 	position: absolute;
 	left: 28px;
@@ -185,7 +184,7 @@ a:hover {
 	text-decoration: none;
 	line-height: 20px;
 	margin-left: 20px;
-	width: 250px; 
+	width: 250px;
 }
 
 #wrapper #container #header #menu a:hover {
