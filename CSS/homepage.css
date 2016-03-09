@@ -58,13 +58,13 @@ h4 {
 #top {
 	width: 900px;
 	height: 25px;
-	background:url(../IMAGES/top-container.png) no-repeat;
+	background:url(/IMAGES/top-container.png) no-repeat;
 }
 
 #container {
 	width: 900px;
 	height: 575px;
-	background: url(../IMAGES/middle-container.png) repeat-y;
+	background: url(/IMAGES/middle-container.png) repeat-y;
 }
 
 #header {
@@ -87,7 +87,7 @@ h4 {
 	position: absolute;
 	left: 350px;
 	top: 26px;
-	background-image:url(../IMAGES/cherry-blossom.jpg);
+	background-image:url(/IMAGES/cherry-blossom.jpg);
 	background-repeat: no-repeat;
 }
 
@@ -119,12 +119,6 @@ h4 {
 	border: 1px solid #1d2c49;
 }
 
-.appointment {
-	font-size: 120%;
-	font-weight: bold;
-	margin: 0.5em 0;
-}
-
 #footer {
 	height: 20px;
 	position: absolute;
@@ -135,7 +129,7 @@ h4 {
 #bottom {
 	width: 900px;
 	height: 25px;
-	background:url(../IMAGES/bottom-container.png) no-repeat;
+	background:url(/IMAGES/bottom-container.png) no-repeat;
 }
 
 
